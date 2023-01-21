@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .hero-img {
+        background-image: url("https://i.ibb.co/GMJB2b3/xfinity-hero.jpg");
+        background-size: cover;
+        background-position: center top;
+        background-repeat: no-repeat;
+        height: 1065px;
+      }
+
+      .upgrade-btn {
+        border-radius: 10px;
+        background-color: #ffffff;
+        color: #0f0f11;
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+        border: 1px solid #ffffff;
+        padding: 14px 30px;
+      }
+
+      .unleash-title {
+        color: #000000;
+        font-size: 40px;
+        line-height: 40px;
+        font-weight: 600;
+        letter-spacing: 0px;
+        text-align: center;
+        text-decoration: none;
+      }
+
+      .learn-more-btn {
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 600;
+        text-decoration: none;
+        border-radius: 10px;
+        padding: 14px 30px;
+        border: 1px solid #6138f5;
+        background-color: #6138f5;
+      }
+
+      .save-30-title {
+        font-size: 23px;
+        line-height: 25px;
+        font-weight: 600;
+        letter-spacing: 0px;
+        color: #000000;
+        text-decoration: none;
+      }
+
+      .web-links {
+        color: #000000;
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 600;
+        text-decoration: none;
+        padding-left: 20px;
+      }
+
+      .social-links {
+        color: #000000;
+        font-size: 20px;
+        font-weight: bold;
+        padding-left: 14px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#e1e1e1">
+    <mj-raw>
+      <!-- start of header -->
+    </mj-raw>
+    <mj-section background-color="#ffffff" padding-bottom="0px" padding-top="10px">
+      <mj-group>
+        <mj-column>
+          <mj-image width="75px" height="25px" padding="7px 0 19px 70px" align="left" href="#" src="https://i.ibb.co/GCzzhKX/xfinity-logo.png" alt="xfinity-logo" />
+        </mj-column>
+        <mj-column>
+          <mj-text padding-right="65px" align="right" color="#575760" font-size="13px" text-decoration="underline" font-weight="600">
+            <a href="#" style="color:#575760 ">Upgrade now</a>
+
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+
+    </mj-section>
+    <mj-raw>
+      <!-- end of header -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start hero section -->
+    </mj-raw>
+    <mj-wrapper css-class="hero-img" padding="0">
+      <mj-section>
+        <mj-column>
+          <mj-text padding="30px 70px 0 70px" align="center" color="#ffffff" font-size="40px" line-height="44px" font-weight="600" letter-spacing="0">
+            Worry-free Wifi. Redfined.
+          </mj-text>
+          <mj-text color="#ffffff" font-size="16px" line-height="20px" font-weight="400" align="center">
+            Our xFi Complete helps keep your devices safe and secure from cyberthreats at home and on the go.
+          </mj-text>
+          <mj-text color="#ffffff" font-size="16px" line-height="20px" font-weight="400" align="center" padding-bottom="30px">
+            And, only Xfinity will upgrade your Gateway after three years at no extra cost for a better, more reliable connection to the Internet. All for only $6 more per month.
+          </mj-text>
+          <mj-text align="center">
+            <a href="#" class="upgrade-btn">Upgrade now</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-raw>
+      <!-- end hero section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of full potential section -->
+    </mj-raw>
+    <mj-section background-color="#F5F5F7" padding="30px">
+      <mj-column>
+        <mj-text align="center">
+          <a class="unleash-title" href="#">Unleash the full potential of <span style="color: #6138f5">worry-free Wifi</span></a>
+        </mj-text>
+        <mj-image href="#" src="https://i.ibb.co/M6x17WK/equipment-xfinity.png" alt="" />
+        <mj-image href="#" src="https://i.ibb.co/YZbGPFH/advanced-xfinity.png" alt="" />
+        <mj-image href="#" src="https://i.ibb.co/VN1sc5d/wall-xfinity.png" alt="" />
+        <mj-text align="center" padding-top="30px" padding-bottom="20px">
+          <a href="#" class="learn-more-btn">Learn more</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of full potential section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of save 30 section -->
+    </mj-raw>
+    <mj-section background-color="#ececf3" padding="30px">
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/64YKdQN/save30-xfinity.png" alt="save30-xfinity" />
+      </mj-column>
+      <mj-column>
+        <mj-text>
+          <a class="save-30-title" href="#">You may eligible to save on your Xfinity Internet and mobile services</a>
+        </mj-text>
+        <mj-text>
+          <a href="" style="color:#000000; text-decoration:underline;font-weight:bold;font-size:16px;line-height:16px;">Apply now</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of save 30 section -->
+    </mj-raw>
+    <mj-section background-color="#f5f5f7">
+      <mj-group>
+        <mj-column width="60%">
+          <mj-text>
+            <a class="web-links" href="">Shop deals</a>
+            <a class="web-links" href="">Account</a>
+            <a class="web-links" href="">Xfinity Stores</a>
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="30%">
+          <mj-text align="right" padding-right="0">
+            <a class="social-links" href="https://ibb.co/LPhFSFX"><img src="https://i.ibb.co/VNp1V1c/xfinity-fb.png" alt="xfinity-fb" border="0" width="22" height="22"></a>
+            <a class="social-links" href="https://ibb.co/LPhFSFX"><img src="https://i.ibb.co/q17wSDh/xfinity-yt.png" alt="xfinity-fb" border="0" width="22" height="22"></a>
+            <a class="social-links" href="https://ibb.co/LPhFSFX"><img src="https://i.ibb.co/5n45zsD/xfinity-tw.png" alt="xfinity-fb" border="0" width="22" height="22"></a>
+          </mj-text>
+        </mj-column>
+
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
